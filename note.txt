@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 log_eintrag_1:29.04.26:_Es gab keine Probleme:Henning
+=======
+helloooo
+world
+sjflksjflkdsjf
+sjflksjfldfdfdfdfdfkdsjf
+>>>>>>> 9984aa249f295116e05938f13cc629eca873248c
